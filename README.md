@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun.
 - 👀 I’m interested in developing software products.
-- 🌱 I’m currently learning to develop highly concurrency applications.
+- 🌱 I’m currently learning to develop highly concurrent applications.
 - 💞️ I’m looking to collaborate on AI and Machine Learning.
 - 📫 Reach me through my email arun@infenia.com. 
 
